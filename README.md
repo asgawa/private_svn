@@ -1,4 +1,4 @@
 private_svn
 ===========
 
-http://svn.apache.org/repos/asf/subversion/trunk
+Link to public SVN open source for private build.
